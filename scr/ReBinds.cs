@@ -7,11 +7,11 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-[assembly: MelonInfo(typeof(DCDExpanded.VehicleControlMod), "Ducks Can Drive - Custom Controls", "1.0.0", "WiredStudio")]
+[assembly: MelonInfo(typeof(ReBinds.VehicleControlMod), "Ducks Can Drive - ReBinds", "1.0.0", "WiredStudio")]
 [assembly: MelonGame("Joseph Cook", "Ducks Can Drive")]
 
 //Welcome to my hell, this took way longer than I expected.
-namespace DCDExpanded
+namespace ReBinds
 {
     public static class Bindings
     {
@@ -604,3 +604,4 @@ namespace DCDExpanded
         }
     }
 }
+
