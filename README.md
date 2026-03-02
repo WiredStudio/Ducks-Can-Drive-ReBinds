@@ -41,7 +41,6 @@ A MelonLoader mod for the game **Ducks Can Drive** that adds a fully customizabl
 | Honk    | H           |
 | Restart | R           |
 
-> **Note:** The Restart key does not yet change buttons – it only shows a message. The binding is saved for future updates.
 
 ---
 
